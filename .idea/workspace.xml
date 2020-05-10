@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07aa193c-cabb-4b8e-bc11-f3124c69714e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aoghdBJEwFMejoHPVVSOGLsAsU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\py\django\CCPVirus\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CCPVirus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07aa193c-cabb-4b8e-bc11-f3124c69714e" name="Default Changelist" comment="" />
+      <created>1587407480643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587407480643</updated>
+      <workItem from="1587407487383" duration="12197000" />
+      <workItem from="1587450278633" duration="1071000" />
+      <workItem from="1587455171310" duration="145000" />
+      <workItem from="1587569065628" duration="540000" />
+      <workItem from="1587628231154" duration="6416000" />
+      <workItem from="1587644739277" duration="637000" />
+      <workItem from="1587696255575" duration="655000" />
+      <workItem from="1587701341444" duration="814000" />
+      <workItem from="1587718852404" duration="1061000" />
+      <workItem from="1587753875470" duration="102000" />
+      <workItem from="1587757433804" duration="4000" />
+      <workItem from="1587775384664" duration="269000" />
+      <workItem from="1588057211938" duration="3487000" />
+      <workItem from="1588099780507" duration="14000" />
+      <workItem from="1589087811325" duration="819000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587416508160">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587416508160" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587634849826">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1587634849826" />
+    <state width="1534" height="231" key="DebuggerActiveHint" timestamp="1587416659723">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1534" height="231" key="DebuggerActiveHint/0.0.1536.834@0.0.1536.834" timestamp="1587416659723" />
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1587775653823">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1587775653823" />
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom" timestamp="1589089528752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589089528752" />
+    <state width="1493" height="309" key="GridCell.Tab.0.center" timestamp="1589089528752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589089528752" />
+    <state width="1493" height="309" key="GridCell.Tab.0.left" timestamp="1589089528752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589089528752" />
+    <state width="1493" height="309" key="GridCell.Tab.0.right" timestamp="1589089528752">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="309" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589089528752" />
+    <state width="1493" height="125" key="GridCell.Tab.1.bottom" timestamp="1587635408369">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587635408369" />
+    <state width="1493" height="125" key="GridCell.Tab.1.center" timestamp="1587635408368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587635408368" />
+    <state width="1493" height="125" key="GridCell.Tab.1.left" timestamp="1587635408368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587635408368" />
+    <state width="1493" height="125" key="GridCell.Tab.1.right" timestamp="1587635408368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587635408368" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1588099780706">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588099780706" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CCPVirus$main.coverage" NAME="main Coverage Results" MODIFIED="1589088030003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
