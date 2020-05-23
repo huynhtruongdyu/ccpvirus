@@ -137,7 +137,6 @@ def update_data():
             print("No change from last update: {}".format(time))
 
 
-
 update_data()
 
 countries = open("data/countries.txt").read().split('\n')
@@ -154,7 +153,7 @@ if len(countries) == len(confirmed) == len(deaths) == len(recovered) == len(reco
     np_deaths = np.array(deaths[:-1]).astype(int)
     np_recovered = np.array(recovered[:-1]).astype(int)
     np_last_update = np.array(last_update[:-1])
-    print("So lieu trung khop: {}".format(len(countries)-1))
+    print("So lieu trung khop: {}".format(len(countries) - 1))
     print()
     # world = County(np_countries[-1], 'na', 'na', np_confirmed[-1], np_recovered[-1], np_deaths[-1], np_last_update[-1])
     # index_VNM = np.where(np_countries == 'Vietnam')
@@ -162,18 +161,21 @@ if len(countries) == len(confirmed) == len(deaths) == len(recovered) == len(reco
 
     data = pd.DataFrame({
         'Country': np_countries,
-        # 'ISO3': np_iso3,
+        'ISO3': np_iso3,
         'Confirmed': np_confirmed,
         'Deaths': np_deaths,
         'Recovered': np_recovered,
         # 'Last Updated': np_last_update,
     })
+    data.index = np_iso3
+
+    data.to_csv('CCPVirus.csv', encoding='utf-8', index=False)
     # data.index = np_iso3
     # data.index += 1
     # pd.set_option('display.max_rows', data.shape[0] + 1)
 
     print(data.tail())
 
-    
+
 else:
     print("So lieu khong trung khop")
